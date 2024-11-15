@@ -1,5 +1,8 @@
 # Ex.No:1a  			Study of Socket Programming
 
+# NAME : PRASHANTH .K
+# REGISTER NUMBER : 212223230152
+
 ## Aim:
 To perform a study on Socket Programming
 ## Introduction:
